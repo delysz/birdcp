@@ -1,4 +1,4 @@
-# 🦅 BIRDCP (Bird + Clipboard)
+# 🦅 BIRDCP
 
 **BIRDCP** es una potente herramienta de automatización para terminal. Su función es actuar como un "escucha" inteligente que detecta correos electrónicos en el portapapeles y permite enviar respuestas predefinidas a través de Thunderbird de forma casi instantánea.
 
