@@ -47,7 +47,7 @@ PLANTILLAS = {
     # Añade tantas como necesites...
 }
 📊 Registro de Datos (Logs)
-Cada vez que confirmas un envío, el sistema genera o actualiza un archivo llamado historial_envios.csv. Este archivo es ideal para importar datos a Excel o conectarlo con plugins de Figma para reportes visuales.
+Cada vez que confirmas un envío, el sistema genera o actualiza un archivo llamado historial_envios.csv.
 
 
 
